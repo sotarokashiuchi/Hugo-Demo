@@ -1,7 +1,7 @@
-baseURL = "https://lightbi-hugo-theme.netlify.app/"
-DefaultContentLanguage = "en"
-languageCode = "en-us"
-title = "Lightbi"
+baseURL = "https://sotarokashiuchi.github.io/Hugo-Demo/"
+DefaultContentLanguage = "jp"
+languageCode = "jp"
+title = "Kahiuchi"
 theme = "lightbi-hugo"
 summaryLength  = "30"
 metaDataFormat = "yaml"
@@ -44,8 +44,8 @@ lunrSearch = true
   filename = "sitemap.xml"
 
 [Author]
-  name = "Bino Kochumol Varghese"
-  website = "https://binovarghese.com"
+  name = "Kahiuchi"
+  #website = "https://binovarghese.com"
   email = "sample@gmail.com"
   facebook = "username"
   instagram = "username"
